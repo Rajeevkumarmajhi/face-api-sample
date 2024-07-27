@@ -1,0 +1,3 @@
+.flip-horizontal {
+    transform: scaleX(-1);
+}
